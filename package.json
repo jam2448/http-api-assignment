@@ -1,0 +1,24 @@
+{
+  "name": "http-api-assignment",
+  "version": "1.0.0",
+  "description": "http api  homework start",
+  "main": "eslint.config.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jam2448/http-api-assignment.git"
+  },
+  "author": "Jarin Moses",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jam2448/http-api-assignment/issues"
+  },
+  "homepage": "https://github.com/jam2448/http-api-assignment#readme",
+  "dependencies": {
+    "eslint": "^9.39.2"
+  }
+}
